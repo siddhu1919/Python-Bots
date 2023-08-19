@@ -6,3 +6,4 @@ import keyboard
 import random
 import win32api, win32con
 
+print("Hi")
